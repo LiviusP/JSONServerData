@@ -1,5 +1,5 @@
-{ "projects" :
-  [
+{
+  "projects": [
     {
       "id": "1",
       "name": "Rustic Metal Car",
@@ -8,7 +8,7 @@
       "technicalSponsor": "Deja Carroll",
       "executiveSponsor": "Joshuah Breitenberg",
       "status": "On Track",
-      "state": "Initiate"
+      "phase": "Initiate"
     },
     {
       "id": "2",
@@ -18,7 +18,7 @@
       "technicalSponsor": "Vince Koepp",
       "executiveSponsor": "Mr. Juvenal Swaniawski",
       "status": "On Hold",
-      "state": "Plan"
+      "phase": "Plan"
     },
     {
       "id": "3",
@@ -28,7 +28,7 @@
       "technicalSponsor": "Madyson Pagac",
       "executiveSponsor": "Henry Johnson",
       "status": "Slight Delay",
-      "state": "Approval"
+      "phase": "Approval"
     },
     {
       "id": "4",
@@ -38,7 +38,7 @@
       "technicalSponsor": "Lia Johns PhD",
       "executiveSponsor": "Lucious Harvey",
       "status": "On Track",
-      "state": "Execute"
+      "phase": "Execute"
     },
     {
       "id": "5",
@@ -48,7 +48,7 @@
       "technicalSponsor": "Ila Cormier",
       "executiveSponsor": "Jacinthe Bogan",
       "status": "On Track",
-      "state": "Initiate"
+      "phase": "Initiate"
     },
     {
       "id": "6",
@@ -58,7 +58,7 @@
       "technicalSponsor": "Benton Fisher",
       "executiveSponsor": "Andre Paucek",
       "status": "On Hold",
-      "state": "Plan"
+      "phase": "Plan"
     },
     {
       "id": "7",
@@ -68,7 +68,7 @@
       "technicalSponsor": "Precious Heathcote",
       "executiveSponsor": "Jalyn DuBuque",
       "status": "Slight Delay",
-      "state": "Approval"
+      "phase": "Approval"
     },
     {
       "id": "8",
@@ -78,7 +78,7 @@
       "technicalSponsor": "Hal Bode",
       "executiveSponsor": "Miss Edwina Casper",
       "status": "On Track",
-      "state": "Idea"
+      "phase": "Idea"
     },
     {
       "id": "9",
@@ -88,7 +88,7 @@
       "technicalSponsor": "Addie Thiel",
       "executiveSponsor": "Katharina Hayes",
       "status": "On Track",
-      "state": "Execute"
+      "phase": "Execute"
     },
     {
       "id": "10",
@@ -98,7 +98,7 @@
       "technicalSponsor": "Ima MacGyver",
       "executiveSponsor": "Jack Kuhic",
       "status": "On Track",
-      "state": "Idea"
+      "phase": "Idea"
     }
   ]
 }
